@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Blog.Api.ViewModels
 {
-    public class LoginUserViewModel
+    public class RegisterUserViewModel
     {
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        [EmailAddress(ErrorMessage = "O campo {0} está em formato inválido")]
+        public string Name { get; set; }
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [EmailAddress(ErrorMessage = "O campo {0} está em formato inválido")]
         public string Email { get; set; }
