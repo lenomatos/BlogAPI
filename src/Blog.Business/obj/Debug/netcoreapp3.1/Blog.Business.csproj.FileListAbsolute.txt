@@ -1,0 +1,8 @@
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.deps.json
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\bin\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.AssemblyInfoInputs.cache
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.AssemblyInfo.cs
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.CoreCompileInputs.cache
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.dll
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.pdb

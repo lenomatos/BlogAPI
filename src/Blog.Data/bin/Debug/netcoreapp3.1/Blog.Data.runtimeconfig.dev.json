@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\leno_\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\leno_\\.nuget\\packages"
+    ]
+  }
+}
