@@ -6,3 +6,4 @@ C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp
 C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.CoreCompileInputs.cache
 C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.dll
 C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.pdb
+C:\Users\leno_\source\repos\Curso\BlogApi\src\Blog.Business\obj\Debug\netcoreapp3.1\Blog.Business.csproj.AssemblyReference.cache

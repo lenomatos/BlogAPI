@@ -20,7 +20,7 @@ using System.Threading.Tasks;
 namespace Blog.Api.Controllers
 {
     [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
-    [Route("[controller]")]
+    [Route("user")]
     [ApiController]
     public class UsersController : ControllerBase
     {
